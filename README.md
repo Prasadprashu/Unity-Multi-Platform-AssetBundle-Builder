@@ -6,6 +6,9 @@ A Unity Editor tool that automates and simplifies multi-platform AssetBundle gen
 
 Building AssetBundles across multiple platforms often requires repetitive manual steps such as switching color spaces, configuring compression settings, managing output folders, and building each platform individually. This tool automates the entire workflow through a single editor window.
 
+## Screenshots
+<img width="1135" height="1251" alt="Unity_Bmfr1V9s0g" src="https://github.com/user-attachments/assets/3bb4ff89-c04d-4222-a061-e1bf67a2612c" />
+
 ## Key Features
 
 ### Multi-Platform AssetBundle Builds
@@ -93,8 +96,6 @@ Uses Unity's LZ4 chunk-based compression to provide a balanced tradeoff between 
 * Cloud storage upload support
 * Build profile presets
 
-## Screenshots
-<img width="1135" height="1251" alt="Unity_Bmfr1V9s0g" src="https://github.com/user-attachments/assets/3bb4ff89-c04d-4222-a061-e1bf67a2612c" />
 
 
 MIT License
